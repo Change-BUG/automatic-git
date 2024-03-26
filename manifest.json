@@ -1,0 +1,11 @@
+{
+  "id": "automatic-git",
+  "name": "automatic-git",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "自动git提交",
+  "author": "ChangeBUG",
+  "authorUrl": "https://github.com/Change-BUG/automatic-git/README.md",
+  "fundingUrl": "https://github.com/Change-BUG/automatic-git/README.md",
+  "isDesktopOnly": false
+}
